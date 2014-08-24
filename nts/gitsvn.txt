@@ -1,0 +1,1 @@
+git svn clone --stdlayout --authors-file=nettopologysuite.authors http://nettopologysuite.googlecode.com/svn/ nettopologysuite-read-only2
